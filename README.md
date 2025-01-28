@@ -15,4 +15,4 @@ Proyek ini memungkinkan Anda mengontrol perangkat elektronik secara jarak jauh m
 
 ## Demo Video
 Lihat cara kerja proyek ini di akun TikTok saya! Jangan lupa follow untuk mendapatkan tips, tutorial, dan proyek menarik lainnya:
-👉 https://www.tiktok.com/@puunnnpun 
+👉 [@puunnnpun](https://www.tiktok.com/@puunnnpun)
